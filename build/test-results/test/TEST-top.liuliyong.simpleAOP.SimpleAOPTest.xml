@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="top.liuliyong.simpleAOP.SimpleAOPTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-10T04:15:06" hostname="liyongliu-Precision-Tower-3420" time="0.006">
+  <properties/>
+  <testcase name="getProxy" classname="top.liuliyong.simpleAOP.SimpleAOPTest" time="0.006"/>
+  <system-out><![CDATA[log task start
+Hello AOP World!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
